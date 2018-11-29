@@ -1,0 +1,7 @@
+
+  [
+    {"id":"1","name":"Swe Swe Tun","email":"sweswetun1990@gmail.com","email_verified_at":null,"password":"$2y$10$y0XHfhNn9.5nhPcrjMPnbOnE3WVOJoDxnZ10czIszmVTlPGzzrZaW","remember_token":"gYw21qtWEgzm90ge3lS9KojD2a1KHdyDjM5hKn6lmSrjud7YjZ7O1QiVtLzK","deleted_at":null,"created_at":"2018-11-10 17:45:58","updated_at":"2018-11-10 17:45:58"},
+    {"id":"2","name":"Chan Myae","email":"chan@gmail.com","email_verified_at":null,"password":"$2y$10$MPIsKGPx4s200Df5AezuSuNqPFVijNd3yJ8kAhbAfNnK0zhAsu8v6","remember_token":"DwIpo7LGJpCzc9XETR5iGsKmRypjjcZ35ER0Gy9Qg9s6O23siAliEhtaEpwz","deleted_at":"2018-11-13 05:20:51","created_at":"2018-11-11 13:23:37","updated_at":"2018-11-13 05:20:51"},
+    {"id":"3","name":"Moe Moe","email":"moe@gmail.com","email_verified_at":null,"password":"$2y$10$wbReiiBDBdc\/\/BS3.MjqJebQvQmKOtI4i2t09s5FWlj0H9opLabPO","remember_token":"GDwayx3XweJjWoHWj7RptZavlbU0NVNyghsTuNewYdJe8t0GuNu2zhg1n4ac","deleted_at":null,"created_at":"2018-11-11 13:26:46","updated_at":"2018-11-13 04:14:37"},
+    {"id":"4","name":"Lwin Lwin Tun","email":"lwinlwin@gmail.com","email_verified_at":null,"password":"$2y$10$tS9Md0i0UrvhnX8xjVakp.WBNJvF8mll3RkJGOpyMADkVoMyRNvLC","remember_token":"uvqQ0x7B1eDA2UbEisLNCavksUuuCKgrgdZBZwA2S6kG7AkwaC3FPbTrckRG","deleted_at":null,"created_at":"2018-11-11 13:27:15","updated_at":"2018-11-13 05:20:37"}
+  ]
